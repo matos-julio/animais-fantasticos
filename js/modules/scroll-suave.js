@@ -28,6 +28,6 @@ export default class initScrollSuave {
     if (this.linksInternos.length) {
       this.addLinkEvent();
     }
-    return this.options;
+    return this;
   }
 }
